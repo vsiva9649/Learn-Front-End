@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Regitration Form</title>
+    <link rel="stylesheet" href="reg.css">
+</head>
+<body>
+    <form action="" method="get" class="form-example">
+
+<label for="name">Name</label>
+
+<input type="text" required><br><br>
+
+<label for="password">password</label>
+<input type="password" required><br><br>
+
+<label for="address">Address</label>
+<textarea name="address" placeholder="Enter your address"></textarea><br><br>
+
+<label>Gender</label>
+<input type="radio" name="gender" checked required>Male
+<input type="radio" name="gender"> Female<br><br>
+
+<label for="mobile">Mobile no</label>
+<input type="tel" pattern="(0|+91)?[6-9]{9}" required>
+<br><br>
+<label for="Qualification"> Qualification: </label>
+<select name="qualification" >
+    <option value="">--Please choose an option--</option>
+    <option   selected>UG</option>
+    <option>PG</option>
+    <option>PhD</option>
+    <option>Diploma</option>
+    <option>PG Diploma</option>
+    <option>HSC</option>
+</select>
+<br><br>
+<label for="Area of Interest"> Interest </label>
+<input type="checkbox"> Data Science </input>
+<input type="checkbox"> Artificial Intelligence </input>
+<input type="checkbox"> Cloud Computing </input>
+<input type="checkbox"> Internet Of Things </input>
+<br><br>
+
+<label for="Area of Interest"> Interest </label>
+<input type="checkbox"> Data Science </input>
+<input type="checkbox"> Artificial Intelligence </input>
+<input type="checkbox"> Cloud Computing </input>
+<input type="checkbox"> Internet Of Things </input>
+<br> <br>
+<input type="file" multiple> </input>
+<input type="date"> </input>
+<br><br>
+<input type="submit" value="Send Request" />
+</form>
+&copy;
+
+</body>
+</html>
