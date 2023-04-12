@@ -1,6 +1,10 @@
-.h2{
-    position: sticky;
-    top: 20px;
+h2{
+font-size: 20px; 
+font-family: sans-serif; 
+color: white; 
+background: grey;
+position:sticky; 
+top: 10px;
 }
 
 /* prograss bar 
@@ -8,7 +12,32 @@ div
 span 
 Float 
 center  */
-#file
+img{
+    float: right;
+    width: 150px;
+    height: 150px;
+}
+.col1{
+    float: left;
+    width: 30%;
+}
+span{
+    float: right;
+}
+.declare
 {
-    <div=class=col1>
+font-size: 20px; 
+text-align: center; 
+/* text-decoration: underline;  */
+}
+/* .h2
+{
+font-size: 20px;  
+text-decoration: underline; 
+} */
+#file{
+    float: left;
+}
+#key{
+    float: right    ;
 }
