@@ -1,0 +1,63 @@
+.ilugc, .indian
+{
+text-transform:uppercase;
+padding: 10px; 
+}
+
+.ilugc
+{
+box-sizing: border-box;
+color: rgb(0, 0, 0);
+font-family: "Open Sans", Helvetica, Arial, sans-serif;
+font-size: 32px;
+font-weight: 700;
+line-height: 32px;
+overflow-wrap: break-word;
+text-transform: uppercase;
+-moz-text-size-adjust: none
+}
+
+.indian
+{
+ color:red; 
+text-decoration-line: overline; 
+text-decoration-color: #ebebeb;
+}
+ul
+{
+display: flex; 
+list-style-type:none; 
+background:black; 
+color: white; 
+border-bottom: 5px solid red;
+}
+
+li
+{
+padding: 10px; 
+text-transform:uppercase; 
+}
+li:hover
+{
+background:red; 
+}
+li
+{
+padding: 10px; 
+text-transform:uppercase;
+border-right: 0.5px solid #404040; 
+}
+li:nth-child(6)
+{
+border:none; 
+}
+body{
+ margin: 0;
+font-family: "Open Sans",Helvetica,Arial,sans-serif;
+font-size: 14px;
+font-size: .875rem;
+line-height: 1.6;
+word-wrap: break-word;
+background: #f7f7f7;
+-webkit-font-smoothing: antialiased;
+}

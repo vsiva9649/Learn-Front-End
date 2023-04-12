@@ -1,0 +1,38 @@
+present, past,future
+simple, continous, perfect, perfectcontinuos
+
+i) simple-present:
+i eat an apple.
+ii) Simple-past:
+i ate an apple.
+iii) Simple-future:
+i will eat an apple.
+
+__________________________________
+1) Simple Present Tense:
+Subject + Verb in the base form/third person plural form + the rest of the sentence
+2) Present Continuous Tense :
+Subject + Helping Verb(am/is/are) + Main verb+ing + the rest of the sentence
+3) Present Perfect Tense :
+Subject + Helping Verb (have/has) + Past participle of the main verb + the rest of the sentence along with the time frame
+4) Present Perfect Continuous Tense:
+Subject + Have/Has + Been + Verb+ing + the rest of the sentence
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    Simple Present Tense
+    Present Continuous Tense
+    Present Perfect Tense
+    Present Perfect Continuous Tense
+    
+    Simple Past Tense
+    Past Continuous Tense
+    Past Perfect Tense
+    Past Perfect Continuous Tense
+
+    Simple Future Tense
+    Future Continuous Tense
+    Future Perfect Tense
+    Future Perfect Continuous Tense
+
+
+bcdedit /set {bootmgr} path \efi\ubuntu\boot\grubx64.efi
